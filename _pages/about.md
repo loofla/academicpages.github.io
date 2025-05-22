@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of Humanities and Social Science]([https://hss.cuhk.edu.cn/]), [The Chinese University of Hongkong,Shenzhen](https://www.cuhksz.edu.cn/). My research interest includes LLM, Bayesian modeling, machine learning, and computational social science.
+I'm a postergraduate student from [School of Humanities and Social Science]([https://hss.cuhk.edu.cn/]), [The Chinese University of Hongkong,Shenzhen](https://www.cuhksz.edu.cn/). My research interest includes LLM, Bayesian modeling, machine learning, and computational social science.
 
 
 [Email](qiqiqiang@link.cuhk.edu.cn) / [Github](https://github.com/loofla)
