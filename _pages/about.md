@@ -18,4 +18,4 @@ MSc in Computational Social Science, The Chinese University of Hongkong(Shenzhen
 
 BSc in Big data Management and Application , Zhongnan University of Economics and Law, 2024
 
-BSc(minor) in Financial Engineering, Zhongnan University of Economics and Law, 2024
+BSc (minor) in Financial Engineering, Zhongnan University of Economics and Law, 2024
